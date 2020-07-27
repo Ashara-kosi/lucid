@@ -266,6 +266,9 @@ and (max-device-width : 480px) {
 .dropdown-list{
     padding: 0px;
 }
+.navbar-nav{
+    display: none;
+}
 
 
 }
